@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Project for storing Postman tests",
   "scripts": {
-    "api-tests-production": "newman run Jsonplaceholder.com.postman_collection.json"
+    "api-tests-production": "newman run jsonplaceholder.com.postman_collection.json"
   },      
   "author": "val",
   "dependencies": {
